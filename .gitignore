@@ -1,0 +1,5 @@
+*_posts.csv
+*_posts.json
+*_comments.csv
+*_comments.json
+__pycache__/
